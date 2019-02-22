@@ -1,0 +1,10 @@
+Threshold:1
+Infectious Period:1
+Display:1
+s,s,s,s,s,v,s
+s,i,s,i,s,v,s
+s,s,s,s,s,v,s
+s,s,i,s,s,v,s
+s,s,s,s,s,v,s
+s,i,s,i,s,v,s
+s,s,s,s,s,v,s
